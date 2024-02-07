@@ -6,7 +6,7 @@ namespace RINHABACKEND.Services
 {
     public class Service
     {
-        private readonly Databasecontext  _databasecontext;
+        private readonly Databasecontext _databasecontext;
         public Service(Databasecontext databasecontext)
         {
             _databasecontext = databasecontext;
@@ -23,5 +23,13 @@ namespace RINHABACKEND.Services
             _databasecontext.Add(saldo);
             _databasecontext.SaveChanges();
         }
-    }
+
+        public void CriarTransacao(int valor, string descricao, TipoDeConta tipo)
+        {
+            Transacao transacao = new Transacao(valor, tipo, descricao, DateTime.Now);
+
+            _databasecontext.Add(transacao);
+            _databasecontext.SaveChanges();
+        }
+    };
 }

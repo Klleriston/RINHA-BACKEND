@@ -36,6 +36,11 @@ namespace RINHABACKEND.Controllers
             return Ok(saldo);
         }
 
+        [HttpPost]
+        [Route("/clientes/{id}/transacoes")]
+        public IActionResult PostTransacao(Saldo saldo) 
+        { }
+
 
     }
 }

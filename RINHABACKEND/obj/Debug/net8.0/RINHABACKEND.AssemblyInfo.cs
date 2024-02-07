@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RINHABACKEND")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ab98a8cfca456752b5bd5b5a7f8026f0da558d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e5449a46a066d636a93879de791574c8b4028fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RINHABACKEND")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RINHABACKEND")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

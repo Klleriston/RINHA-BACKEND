@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z4DGjCvoY+LTDa0CRKGFe6AutIq504VOm0H/OMkXMTkkwD3g2dPpExtFLoF04CWBnN4qQFNjcdWUmEomw1RwwA==",
+  "dgSpecHash": "s+2oNAP7vFt1FJ4+Vm6my7133H9EfS++CGKlIrDcZ6L8J4B4sIjmIbzA34aTseFGqXH+55Dy/dx/QXtwgZeW3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\klleriston_calriz\\Desktop\\.net-jwt-angular\\RINHABACKEND\\RINHABACKEND\\RINHABACKEND.csproj",
+  "projectFilePath": "C:\\Users\\klleriston_calriz\\Desktop\\RINHA-BACKEND\\RINHABACKEND\\RINHABACKEND.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klleriston_calriz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\klleriston_calriz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

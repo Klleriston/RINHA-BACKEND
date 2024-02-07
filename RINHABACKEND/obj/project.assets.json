@@ -2717,11 +2717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klleriston_calriz\\Desktop\\.net-jwt-angular\\RINHABACKEND\\RINHABACKEND\\RINHABACKEND.csproj",
+      "projectUniqueName": "C:\\Users\\klleriston_calriz\\Desktop\\RINHA-BACKEND\\RINHABACKEND\\RINHABACKEND.csproj",
       "projectName": "RINHABACKEND",
-      "projectPath": "C:\\Users\\klleriston_calriz\\Desktop\\.net-jwt-angular\\RINHABACKEND\\RINHABACKEND\\RINHABACKEND.csproj",
+      "projectPath": "C:\\Users\\klleriston_calriz\\Desktop\\RINHA-BACKEND\\RINHABACKEND\\RINHABACKEND.csproj",
       "packagesPath": "C:\\Users\\klleriston_calriz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klleriston_calriz\\Desktop\\.net-jwt-angular\\RINHABACKEND\\RINHABACKEND\\obj\\",
+      "outputPath": "C:\\Users\\klleriston_calriz\\Desktop\\RINHA-BACKEND\\RINHABACKEND\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klleriston_calriz\\AppData\\Roaming\\NuGet\\NuGet.Config",

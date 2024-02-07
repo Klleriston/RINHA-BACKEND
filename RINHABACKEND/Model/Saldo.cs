@@ -10,5 +10,9 @@ namespace RINHABACKEND.Model
         public DateTime Data_extrato { get; set; }
         public int limite { get; set; }
 
+        public void atualizarSaldo(int novototal)
+        {
+            Total = novototal;
+        }
     }
 }
